@@ -1,0 +1,81 @@
+			MUSIC BOX
+   		   CS675 ASSIGNMENT 2 PART 2
+
+		      Priyanka Patel	
+			133050021
+		   Lekha Muraleedharan
+			133050002
+
+-------------------------------------------------------------------------
+		        How to run:
+		===========================
+1) From linux terminal change directory to folder containing source code
+	cd <path>/133050002/
+2) Remove any existing binary if present by using the following command
+	make clean
+3) Compile the source code using make command
+	make
+4) Run the mydraw.out executable file created
+	./music_box
+
+-------------------------------------------------------------------------
+		    Modes:
+		============
+------------------------------------
+While drawing camera flythrough:
+------------------------------------
+    Up arrow/Down arrow	---Select current Z axis coordinate
+    f			---Start Camera Animation
+
+----------------
+Lights:
+-----------------
+    W ---Toggle Wall light
+    L ---Toggle table lamp
+
+--------------------------------------
+Box and human and scene movements:
+--------------------------------------
+    I ---Initial Position for all parts
+    | ---Human
+    [ ---Box
+    s ---Scene
+
+    t ---Torso
+    n ---Neck
+    h ---Head
+
+    q ---Left Upper Arm
+    w ---Left Lower Arm
+    e ---Left Hand
+
+    p ---Right Upper Arm
+    o ---Right Lower Arm
+    i ---Right Hand
+
+    z ---Left Upper Leg
+    c ---Left Lower Leg
+    a ---Left Foot
+
+    m ---Right Upper Leg
+    b ---Right Lower Leg
+    l ---Right Foot 
+
+*Legs and arms shortcut are related to keyboard layout of alphabets. 
+
+
+		Rotation Controls:
+	   ===========================
+
+    0 	---Initial position for selected part
+    1,2 ---X axis
+    3,4 ---Y axis
+    5,6 ---Z axis
+    7,8 ---Open/close box 
+-------------------------------------------------------------------------
+ 			    Report:
+		============================
+
+A brief overview can be accessed at 
+http://www.cse.iitb.ac.in/~priyapatel/report_a22.html
+http://www.cse.iitb.ac.in/~lekha/report_a22.html
