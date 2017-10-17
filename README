@@ -17,6 +17,8 @@
 	make
 4) Run the mydraw.out executable file created
 	./music_box
+5) Use Up arrow/Down arrow to move closer to box. Press [ . To open the box press 7 and to close 8. Other controls are
+   defined below.
 
 -------------------------------------------------------------------------
 		    Modes:
