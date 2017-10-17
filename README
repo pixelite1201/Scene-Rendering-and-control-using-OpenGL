@@ -10,7 +10,7 @@
 		        How to run:
 		===========================
 1) From linux terminal change directory to folder containing source code
-	cd <path>/133050002/
+	cd <path>
 2) Remove any existing binary if present by using the following command
 	make clean
 3) Compile the source code using make command
@@ -34,8 +34,11 @@ Lights:
     L ---Toggle table lamp
 
 --------------------------------------
-Box and human and scene movements:
+Box and human and scene movements: 
 --------------------------------------
+(Press the given key to perform rotation 
+on the given part. Rotation keys are mentioned below)
+
     I ---Initial Position for all parts
     | ---Human
     [ ---Box
@@ -77,5 +80,5 @@ Box and human and scene movements:
 		============================
 
 A brief overview can be accessed at 
-http://www.cse.iitb.ac.in/~priyapatel/report_a22.html
-http://www.cse.iitb.ac.in/~lekha/report_a22.html
+https://github.com/pixelite1201/pixelite1201.github.io/blob/master/report_a21.md
+https://github.com/pixelite1201/pixelite1201.github.io/blob/master/report_a22.md
