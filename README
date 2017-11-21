@@ -17,17 +17,10 @@
 	make
 4) Run the mydraw.out executable file created
 	./music_box
-5) Use Up arrow/Down arrow to move closer to box. Press [ . To open the box press 7 and to close 8. Other controls are
-   defined below.
 
 -------------------------------------------------------------------------
 		    Modes:
 		============
-------------------------------------
-While drawing camera flythrough:
-------------------------------------
-    Up arrow/Down arrow	---Select current Z axis coordinate
-    f			---Start Camera Animation
 
 ----------------
 Lights:
@@ -78,9 +71,15 @@ on the given part. Rotation keys are mentioned below)
     5,6 ---Z axis
     7,8 ---Open/close box 
 -------------------------------------------------------------------------
+
+*******SAMPLE RUN********
+--------------------------
+
+1. Use Up arrow key to move close to box. Press '[' to select box. Press 7,8 to open or close music box and 1,2,3,4,5,6 to rotate box. Press '|' to select doll. Again 1-6 can be used to perform rotation. Similarly, other body parts can be selected and rotated as mentioned in Mode.
+
  			    Report:
 		============================
-
+Video:-https://www.youtube.com/watch?v=wMOaMNVXz8c
 A brief overview can be accessed at 
 https://github.com/pixelite1201/pixelite1201.github.io/blob/master/report_a21.md
 https://github.com/pixelite1201/pixelite1201.github.io/blob/master/report_a22.md

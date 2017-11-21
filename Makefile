@@ -1,5 +1,5 @@
 CC = g++
-CFLAGS = -Wall
+CFLAGS = -Wall -w
 PROG = music_box
 
 SRCS = main.cpp imageloader.cpp 
